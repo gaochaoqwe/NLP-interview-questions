@@ -11,7 +11,7 @@
 - [3. 分类决策树和回归决策树的区别](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.Desition%20Tree#3-分类决策树和回归决策树的区别)
 - [4. 决策树如何剪枝](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.Desition%20Tree#4-决策树如何剪枝)
 - [5. 代码实现](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/DecisionTree.ipynb)
-
+- [参考链接1](https://blog.csdn.net/qq_35687547/article/details/100123558)
 ## 1. 什么是决策树
 
 ### 1.1 决策树的基本思想
