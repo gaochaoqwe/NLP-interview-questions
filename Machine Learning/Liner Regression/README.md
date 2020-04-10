@@ -115,6 +115,7 @@ ElasticNet在我们发现用Lasso回归太过(太多特征被稀疏为0),而岭�
 （3）残差e 服从正态分布N(0,σ2) 。其方差σ2 = var (ei) 反映了回归模型的精度， σ 越小，用所得到回归模型预测y的精确度愈高。
 
 ![image](https://bkimg.cdn.bcebos.com/pic/342ac65c1038534384b650b09213b07eca808822)
+
 （4） e 的大小不随所有变量取值水平的改变而改变，即方差齐性。
 
 ## 8. [代码实现](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression/demo)
