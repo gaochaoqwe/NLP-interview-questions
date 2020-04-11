@@ -41,6 +41,7 @@ XGBoost是陈天奇等人开发的一个开源机器学习项目，高效地实�
 - 对于f(x)，XGBoost利用泰勒展开三项，做一个近似。**f(x)表示的是其中一颗回归树。**
 
 看到这里可能有些读者会头晕了，这么多公式，**我在这里只做一个简要式的讲解，具体的算法细节和公式求解请查看这篇博文，讲得很仔细**：[通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574)
+[计算案例参考](https://blog.csdn.net/PIPIXIU/article/details/82980740)
 
 XGBoost的**核心算法思想**不难，基本就是：
 
