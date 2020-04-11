@@ -142,6 +142,8 @@ Classification And Regression Tree(CART)是决策树的一种，CART算法既可
 
 **回归树**：
 
+[实例详解](https://zhuanlan.zhihu.com/p/36108972)
+
 CART回归树是假设树为二叉树，通过不断将特征进行分裂。比如当前树结点是基于第j个特征值进行分裂的，设该特征值小于s的样本划分为左子树，大于s的样本划分为右子树。 
 
 ![](https://julyedu-img.oss-cn-beijing.aliyuncs.com/quesbase6415343854853617715.png)
