@@ -1,4 +1,7 @@
 ## 目录
+
+可以直接转移到[文章1](https://www.lizenghai.com/archives/34070.html)[文章2](https://zhuanlan.zhihu.com/p/73725993)
+
 - [1. 什么是XGBoost](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.3%20XGBoost#1-什么是xgboost)
   - [1.1 XGBoost树的定义](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.3%20XGBoost#11-xgboost树的定义)
   - [1.2 正则项：树的复杂度](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.3%20XGBoost#12-正则项树的复杂度)
