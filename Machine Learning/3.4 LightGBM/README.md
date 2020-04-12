@@ -2,6 +2,8 @@
 
 可直接跳转[文章1](https://zhuanlan.zhihu.com/p/91167170)
 
+[中文文档](https://lightgbm.apachecn.org/#/docs/2)
+
 - [1. LightGBM是什么东东](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.4%20LightGBM#1-lightgbm是什么东东)
   - [1.1 LightGBM在哪些地方进行了优化 (区别XGBoost)？](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.4%20LightGBM#11-lightgbm在哪些地方进行了优化----区别xgboost)
   - [1.2 Histogram算法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.4%20LightGBM#12-histogram算法)
