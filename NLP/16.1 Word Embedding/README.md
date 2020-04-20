@@ -1,3 +1,4 @@
+[参考跳转1](https://zh.gluon.ai/chapter_natural-language-processing/word2vec.html)
 ## 目录
 - [1. 什么是词嵌入(Word Embedding)](#1-什么是词嵌入word-embedding)
 - [2.离散表示](#2离散表示)
