@@ -1,3 +1,4 @@
+[参考跳转1](https://www.zhihu.com/question/348964090/answer/844048818)
 ## 目录
 - [1. 什么是fastText](#1-什么是fasttext)
 - [2. n-gram表示单词](#2-n-gram表示单词)
